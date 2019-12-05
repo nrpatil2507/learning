@@ -195,3 +195,7 @@ git diff firstbranch second branch
 
 18gitg for gui purpose
 
+19 difftool use for gettinf differences
+
+20 cherry-pic command
+test
